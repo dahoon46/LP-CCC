@@ -1,5 +1,6 @@
 # Requirements
 - networkx
+- matplotlib
 
 # Intro
 ## Files
