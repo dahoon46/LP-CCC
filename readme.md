@@ -6,7 +6,7 @@
 ## Files
 
 - `data`  
-This folder contains the datasets used for the experiments, which are preprocessed. Each line of datafile is like
+This folder contains the datasets used for the experiments, which are preprocessed. Each line of the datafile is like
 
 node1 node2 color
 
