@@ -6,7 +6,9 @@
 ## Files
 
 - `data`  
-This folder contains the datasets used for the experiments, which are preprocessed.  
+This folder contains the datasets used for the experiments, which are preprocessed. Each line of datafile is like
+node1 node2 color
+
 - `src`  
     - `algorithm`  
     This folder contains all algorithms we test.
